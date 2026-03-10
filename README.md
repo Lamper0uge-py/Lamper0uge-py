@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Rodrigo!
+
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS
+- Preparando-se para o mercado de tecnologia
+- Contato: lamperouge.job@gmail.com
 
 <!--
 **Lamper0uge-py/Lamper0uge-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
