@@ -41,7 +41,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ---
 
 ## 📫Como me encontrar
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:lamperouge.job@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
 
 <!--
 **Lamper0uge-py/Lamper0uge-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
